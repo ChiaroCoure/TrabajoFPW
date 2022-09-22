@@ -1,0 +1,194 @@
+header{
+    background: rgb(237,237,237);
+    margin: 20px 30px 0px 20px;
+}
+.titulo{
+    display: inline-flex;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    margin: 10px 10px 10px 50px;
+    background: url(Captura.PNG);
+    background-size: cover;
+    background-position: center;
+}
+body{
+    margin:0;
+    padding:0;
+    background: url(fondo.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.Cine{
+    Margin: 50px 0px 0px 50px;
+    font-size: 100px;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.cuerpo{
+    margin: 30px ;
+    display: block;
+}
+
+.lista{
+    display: block;
+    background: #AAC4FF ;
+    padding: 10px 30px;
+    margin: 25px 10px 10px 390px;
+    color: rgb(237,237,237);
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.lista:hover{
+    color: #D2DAFF;
+    background: #5CB8E4;
+    padding: 15px 30px;
+
+}
+.titulooferta{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:rgb(237,237,237);
+
+}
+.texto{
+    margin: 30px;
+    font-family: 'Roboto';
+    color:rgb(237,237,237);
+}
+.oferta1{
+    display: flex;
+}
+
+.oferta1:hover{
+    margin: 0px -20px;
+}
+.oferta2:hover{
+    margin: 0px -20px;
+}
+
+
+.oferta2{
+    display: flex;
+}
+.titulooferta2{
+    text-align:right;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: Light 300 Italic;
+    color:rgb(0,0,0);
+}
+.texto2{
+    text-align:right;
+    margin: 30px;
+    font-family: 'Roboto';
+    color:rgb(0,0,0);
+}
+
+.ver1{
+    height: 340px;
+    width: 240px;
+    margin: 0px;
+}
+
+.textooferta{
+    padding: 30px;
+    background: rgba(0,27,41,0.7);
+}
+
+.textooferta2{
+    padding: 30px;
+    background: rgba(225,255,238,0.7);
+}
+
+.pelicapsula{
+    padding: 30px;
+    background: rgba(0,27,41,0.7);
+    display: block;
+}
+.peli{
+    height: 300px;
+    width: 240px;
+}
+.pelisubcapsula{
+    display: flex;
+    justify-content: space-around;
+}
+.pelijuntoaltexto{
+    background: rgba(0,27,41,0.7);
+    margin: 10px 20px;
+    height: 390px;
+    width: 240px;
+}
+.titulopeli{
+    
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    color: rgb(237,237,237);
+}
+
+.pelijuntoaltexto:hover{
+    background: rgba(0,27,41,0.7);
+    padding: 20px;
+}
+
+.iconos{ 
+    display: flex;
+    justify-content: center;
+}
+
+.f{
+    margin : 15px 10px;
+    height: 30px;
+    width: 30px;
+    background: url(facebook.png);
+    background-size: cover;
+    background-position: center;
+}
+.y{
+    margin : 15px 10px;
+    height: 30px;
+    width: 30px;
+    background: url(youtube.png);
+    background-size: cover;
+    background-position: center;
+}
+.t{
+    margin : 15px 10px;
+    height: 30px;
+    width: 30px;
+    background: url(tweeter.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.comparte:hover{
+    height: 40px;
+    width: 40px;
+}
+
+
+
+.pelis{
+    text-align: center;
+    height: 540px;
+    width: 432px;
+    display: block;
+    margin: 40px auto;
+}
+
+
+.comparte{
+    margin : 15px 10px;
+    height: 30px;
+    width: 30px;
+}
+.logot{
+    height: 200px;
+    width: 200px;
+    margin: 10px 10px 10px 50px;
+}
