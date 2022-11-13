@@ -1,17 +1,13 @@
-import React from 'react';
-import Cabecera from './components/cabecera';
-import Iconos from './components/compartir';
-import './components/css/estilos.css'
-import './components/cuerpo'
-import Cuerpo from './components/cuerpo';
+import { Fragment } from "react";
+import Header from "./components/Header";
+import Pelis from "./components/Pelis"
 
 function App() {
   return (
-    <div>
-    <Cabecera />
-    <Cuerpo/>
-    <Iconos />
-    </div>
+    <Fragment>
+      <Header/>
+      <Pelis/>
+    </Fragment>
   );
 }
 

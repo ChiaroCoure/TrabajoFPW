@@ -1,0 +1,47 @@
+[
+    {
+        "portada":"./img/2.jpg",
+        "nombre":"Los secretos de Dumbledore",
+        "id":"1"
+    },
+    {
+        "portada":"./img/3.jpg",
+        "nombre":"Jurasic World Dominion",
+        "id":"2"
+    },
+    {
+        "portada":"./img/4.jpg",
+        "nombre": "Buzz LightYear",
+        "id":"3"
+    },
+    {
+        "portada":"./img/6.jpg",
+        "nombre":"The Deer King",
+        "id":"4"
+    },
+    {
+        "portada":"./img/7.jpg",
+        "nombre":"Moonfall",
+        "id":"5"
+    },
+    {
+        "portada":"./img/Morbius.jpg",
+        "nombre":"Morbius",
+        "id":"6"
+    },
+    {
+        "portada":"./img/Muerte en el Nilo.jpg",
+        "nombre":"Muerte en el Nilo",
+        "id":"7"
+    },
+    {
+        "portada":"./img/Uncharted.jpg",
+        "nombre":"Uncharted",
+        "id":"8"
+    },
+    {
+        "portada":"./img/10.jpg",
+        "nombre":"Jujutsu Kaisen",
+        "id":"9"
+    }
+]
